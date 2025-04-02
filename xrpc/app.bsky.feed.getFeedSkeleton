@@ -1,12 +1,7 @@
 {
-  "cursor": undefined,
   "feed": [
     {
-      "post": "at://did:plc:p54ltweu4dezdsew763l2al2/app.bsky.feed.post/3ll3w72gumv2h",
-      "reason": {
-        "repost": "at://did:plc:wnmw54dcinftinegubnet7lh/app.bsky.feed.post/3lltryr7ng223"
-      },
-      "feedContext": "string"
+      "post": "at://did:plc:p54ltweu4dezdsew763l2al2/app.bsky.feed.post/3ll3w72gumv2h"
     }
   ]
 }
