@@ -1,7 +1,16 @@
 {
   "feed": [
     {
-      "post": "at://did:plc:p54ltweu4dezdsew763l2al2/app.bsky.feed.post/3ll3w72gumv2h"
+      "post": "at://did:plc:p54ltweu4dezdsew763l2al2/app.bsky.feed.post/3ll3w72gumv2h",
+      "reason": {
+        "type": 
+        "promoted": {
+          "$type": "blue.promoted.defs#skeletonReasonPromoted",
+          "by": "did:plc:wnmw54dcinftinegubnet7lh",
+          "for": "did:plc:wnmw54dcinftinegubnet7lh",
+          "info": "test reason"
+        }
+      }
     }
   ]
 }
